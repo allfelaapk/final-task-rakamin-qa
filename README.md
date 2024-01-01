@@ -1,7 +1,7 @@
 # Final Task Project Based Internship Rakamin - Quality Assurance 
 
-Nama: Allfela Aisyah PK
-Batch: Desember 2023
+> Nama: Allfela Aisyah PK
+> Batch: Desember 2023
 
 Task ini berisi:
 1. Integration API Test yang diimplementasikan menggunakan k6 dengan tambahan assertion
